@@ -7,8 +7,8 @@ in the data base analysis.
 
 #Headings
 ##Heading 1
-*List
-*of
-*Items
+* List
+* of
+* Items
 
 ##Heading 2
